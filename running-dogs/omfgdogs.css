@@ -1,0 +1,13 @@
+body{
+background-image:url(assets/omfgdogs.gif);
+
+}
+a{
+font-size:20px;
+margin-left: 80%;
+position:absolute;
+bottom:0;
+font-family: arial;
+color: green;
+background-color:silver;
+}
