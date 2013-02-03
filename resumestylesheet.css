@@ -1,0 +1,54 @@
+h1{
+margin-left:250px;
+margin-right:250px;
+}
+
+
+
+div.sectiontitles{
+font-family:"Times New Roman",Georgia,Serif;
+font-size: 15pt;
+font-weight:bold;
+
+}
+
+div.subsectiontitles{
+font-family:"Times New Roman",Georgia,Serif;
+font-size: 13pt;
+font-weight:bold;
+padding-left:25px;
+}
+
+div.description{
+font-family:"Times New Roman",Georgia,Serif;
+font-size: 12pt;
+font-weight:normal;
+font-style:italic;
+padding-left:25px;
+}
+
+div.jobdescription{
+font-family:"Times New Roman",Georgia,Serif;
+font-size: 12pt;
+font-weight:bold;
+font-style:italic;
+padding-left:25px;
+}
+
+.maintext {
+font-family:"Times New Roman",Georgia,Serif;
+font-size: 12pt;
+font-weight:normal;
+}
+
+li{
+list-style-position: outside; 
+list-style-type: disc;
+padding-left: 0px;
+width: 600px;
+}
+
+hr{
+width:700px;
+margin-left:0px;
+}
