@@ -1,1 +1,1 @@
-This is my User PAge with a link to my resume and bio.
+This is my User Page with a link to my resume and bio. I was able to complete this entire assignment.  It took me approximately 4-5 hours.  I used 3 different css files.  The resume has two files, one for mobile and one for larger screens, specifically my macbook's resolution.  The changes between the two files are very slim, but mainly just make the resume take up more of the screen on the mobile site.  The 3rd css file is for the main page and bio page.
